@@ -15,6 +15,7 @@ TICKERS = {
     "STM": "STM", "NOK": "NOK", "WDC": "WDC", "SNDK": "SNDK", "STX": "STX",
     "LITE": "LITE", "COHR": "COHR", "META": "META", "HIMS": "HIMS",
     "MSFT": "MSFT", "GOOG": "GOOGL", "AMZN": "AMZN",
+    "CRWD": "CRWD", "GTLB": "GTLB", "MRNA": "MRNA", "NBIS": "NBIS",
 }
 
 NAMES = {
@@ -30,6 +31,7 @@ NAMES = {
     "SNDK": "Sandisk", "STX": "Seagate", "LITE": "Lumentum",
     "COHR": "Coherent", "META": "Meta", "HIMS": "Hims & Hers",
     "MSFT": "Microsoft", "GOOG": "Google", "AMZN": "Amazon",
+    "CRWD": "CrowdStrike", "GTLB": "GitLab", "MRNA": "Moderna", "NBIS": "Nebius",
 }
 
 
